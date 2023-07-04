@@ -253,7 +253,7 @@ namespace LinkedListTests
             string result = myLinkedList.LinkedListToString();
 
             // Assert
-            Assert.Equal("{ 3 } -> { 2 } -> { 1 } -> NULL", result);
+            Assert.Equal("{ 1 } -> { 2 } -> { 3 } -> NULL", result);
         }
     }
 }

@@ -105,6 +105,10 @@ public class LinkedList
 
     public int KthFromEnd(int k)
 {
+if(k<0)
+        {
+            throw new Exception("Invalid Index");
+        }
     if (head == null)
     {
         throw new Exception("LinkedList is empty.");
