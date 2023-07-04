@@ -5,4 +5,5 @@
 | Challenge01 | [ArrayReverseChallenge](./ArrayReverseChallenge/README.md) |
 | Challenge02 | [ArrayInsertShiftChallenge](./ArrayInsertShiftChallenge/README.md) |
 | Challenge03 | [BinarySearch1DArray](./BinarySearch1DArray/README.md) |
-| Challenge05 | [linked-list](./linkedListImplementation(1)/README.md) |
+| Challenge05 | [linked-list(1)](./linkedListImplementation(1)/README.md) |
+| Challenge05 | [linked-list(3)](./LinkedListImplementation(3)/README.md) |
