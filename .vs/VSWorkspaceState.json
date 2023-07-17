@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\LinkedListImplementation(4)\\LinkedListCodeImplementation",
-    "\\LinkedListImplementation(4)\\LinkedListTestImplementation"
+    "\\LinkedListImplementation(4)\\LinkedListTestImplementation",
+    "\\Stack&QueueImplementation(1)",
+    "\\Stack&QueueImplementation(1)\\Challenge10Test"
   ],
-  "SelectedNode": "\\Stack&QueueImplementation(1)",
   "PreviewInSolutionExplorer": false
 }
