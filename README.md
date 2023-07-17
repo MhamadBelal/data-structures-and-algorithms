@@ -9,4 +9,5 @@
 | Challenge06 | [linked-list(2)](./LinkedListImplementation(2)/README.md) |
 | Challenge07 | [linked-list(3)](./LinkedListImplementation(3)/README.md) |
 | Challenge08 | [linked-list(4)](./LinkedListImplementation(4)/README.md) |
-| Challenge10 | [Stacks&Queues](./Stack&QueueImplementation(1)/README.md) |
+| Challenge10 | [Stacks&Queues(1)](./Stack&QueueImplementation(1)/README.md) |
+| Challenge11 | [Stacks&Queues(2)](./Stack&QueueImplementation(2)/README.md) |
