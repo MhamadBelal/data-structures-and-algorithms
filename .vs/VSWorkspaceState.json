@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Stack&QueueImplementation(2)"
+    "\\Stack&QueueImplementation(2)\\Assets",
+    "\\Stack&QueueImplementation(2)\\Lab11Code",
+    "\\Stack&QueueImplementation(2)\\Lab11Tests"
   ],
-  "SelectedNode": "\\Stack&QueueImplementation(2)\\README.md",
+  "SelectedNode": "\\StackQueueAnimalShelter",
   "PreviewInSolutionExplorer": false
 }
