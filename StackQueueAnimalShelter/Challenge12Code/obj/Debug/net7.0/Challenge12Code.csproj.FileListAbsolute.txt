@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\StackQueueAnimalShelter\Challenge12Code\bin\Debug\net7.0\Challenge12Code.exe
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\StackQueueAnimalShelter\Challenge12Code\bin\Debug\net7.0\Challenge12Code.deps.json
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\StackQueueAnimalShelter\Challenge12Code\bin\Debug\net7.0\Challenge12Code.runtimeconfig.json
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\StackQueueAnimalShelter\Challenge12Code\bin\Debug\net7.0\Challenge12Code.dll
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\StackQueueAnimalShelter\Challenge12Code\bin\Debug\net7.0\Challenge12Code.pdb
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\StackQueueAnimalShelter\Challenge12Code\obj\Debug\net7.0\Challenge12Code.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\StackQueueAnimalShelter\Challenge12Code\obj\Debug\net7.0\Challenge12Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\StackQueueAnimalShelter\Challenge12Code\obj\Debug\net7.0\Challenge12Code.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\StackQueueAnimalShelter\Challenge12Code\obj\Debug\net7.0\Challenge12Code.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\StackQueueAnimalShelter\Challenge12Code\obj\Debug\net7.0\Challenge12Code.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\StackQueueAnimalShelter\Challenge12Code\obj\Debug\net7.0\Challenge12Code.dll
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\StackQueueAnimalShelter\Challenge12Code\obj\Debug\net7.0\refint\Challenge12Code.dll
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\StackQueueAnimalShelter\Challenge12Code\obj\Debug\net7.0\Challenge12Code.pdb
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\StackQueueAnimalShelter\Challenge12Code\obj\Debug\net7.0\Challenge12Code.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\StackQueueAnimalShelter\Challenge12Code\obj\Debug\net7.0\ref\Challenge12Code.dll
