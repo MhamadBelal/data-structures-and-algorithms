@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\StackQueueBrackets\Challenge13Code\bin\Debug\net7.0\Challenge13Code.exe
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\StackQueueBrackets\Challenge13Code\bin\Debug\net7.0\Challenge13Code.deps.json
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\StackQueueBrackets\Challenge13Code\bin\Debug\net7.0\Challenge13Code.runtimeconfig.json
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\StackQueueBrackets\Challenge13Code\bin\Debug\net7.0\Challenge13Code.dll
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\StackQueueBrackets\Challenge13Code\bin\Debug\net7.0\Challenge13Code.pdb
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\StackQueueBrackets\Challenge13Code\obj\Debug\net7.0\Challenge13Code.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\StackQueueBrackets\Challenge13Code\obj\Debug\net7.0\Challenge13Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\StackQueueBrackets\Challenge13Code\obj\Debug\net7.0\Challenge13Code.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\StackQueueBrackets\Challenge13Code\obj\Debug\net7.0\Challenge13Code.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\StackQueueBrackets\Challenge13Code\obj\Debug\net7.0\Challenge13Code.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\StackQueueBrackets\Challenge13Code\obj\Debug\net7.0\Challenge13Code.dll
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\StackQueueBrackets\Challenge13Code\obj\Debug\net7.0\refint\Challenge13Code.dll
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\StackQueueBrackets\Challenge13Code\obj\Debug\net7.0\Challenge13Code.pdb
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\StackQueueBrackets\Challenge13Code\obj\Debug\net7.0\Challenge13Code.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\StackQueueBrackets\Challenge13Code\obj\Debug\net7.0\ref\Challenge13Code.dll
