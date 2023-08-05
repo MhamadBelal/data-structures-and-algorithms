@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Tree-max",
+    "\\Trees\\Assets",
     "\\Trees\\TreeTest"
   ],
-  "SelectedNode": "\\Tree-max\\Assets",
+  "SelectedNode": "\\Tree-breadth-first",
   "PreviewInSolutionExplorer": false
 }

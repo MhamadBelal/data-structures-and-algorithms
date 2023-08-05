@@ -14,3 +14,6 @@
 | Challenge12 | [Stack Queue Animal Shelter](./StackQueueAnimalShelter/README.md) |
 | Challenge13 | [Stack Queue Brackets](./StackQueueBrackets/README.md) |
 | Challenge15 | [Trees](./Trees/README.md) |
+| Challenge16 | [Tree-max](./Tree-max/README.md) |
+| Challenge17 | [Tree-breadth-first](./Tree-breadth-first/README.md) |
+

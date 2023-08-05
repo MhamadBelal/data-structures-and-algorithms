@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-breadth-first\TreeBreadthFirstCode\bin\Debug\net7.0\TreeBreadthFirstCode.exe
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-breadth-first\TreeBreadthFirstCode\bin\Debug\net7.0\TreeBreadthFirstCode.deps.json
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-breadth-first\TreeBreadthFirstCode\bin\Debug\net7.0\TreeBreadthFirstCode.runtimeconfig.json
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-breadth-first\TreeBreadthFirstCode\bin\Debug\net7.0\TreeBreadthFirstCode.dll
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-breadth-first\TreeBreadthFirstCode\bin\Debug\net7.0\TreeBreadthFirstCode.pdb
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-breadth-first\TreeBreadthFirstCode\obj\Debug\net7.0\TreeBreadthFirstCode.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-breadth-first\TreeBreadthFirstCode\obj\Debug\net7.0\TreeBreadthFirstCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-breadth-first\TreeBreadthFirstCode\obj\Debug\net7.0\TreeBreadthFirstCode.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-breadth-first\TreeBreadthFirstCode\obj\Debug\net7.0\TreeBreadthFirstCode.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-breadth-first\TreeBreadthFirstCode\obj\Debug\net7.0\TreeBreadthFirstCode.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-breadth-first\TreeBreadthFirstCode\obj\Debug\net7.0\TreeBreadthFirstCode.dll
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-breadth-first\TreeBreadthFirstCode\obj\Debug\net7.0\refint\TreeBreadthFirstCode.dll
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-breadth-first\TreeBreadthFirstCode\obj\Debug\net7.0\TreeBreadthFirstCode.pdb
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-breadth-first\TreeBreadthFirstCode\obj\Debug\net7.0\TreeBreadthFirstCode.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-breadth-first\TreeBreadthFirstCode\obj\Debug\net7.0\ref\TreeBreadthFirstCode.dll
