@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Trees\TreeCode\bin\Debug\net7.0\TreeCode.exe
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Trees\TreeCode\bin\Debug\net7.0\TreeCode.deps.json
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Trees\TreeCode\bin\Debug\net7.0\TreeCode.runtimeconfig.json
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Trees\TreeCode\bin\Debug\net7.0\TreeCode.dll
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Trees\TreeCode\bin\Debug\net7.0\TreeCode.pdb
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Trees\TreeCode\obj\Debug\net7.0\TreeCode.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Trees\TreeCode\obj\Debug\net7.0\TreeCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Trees\TreeCode\obj\Debug\net7.0\TreeCode.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Trees\TreeCode\obj\Debug\net7.0\TreeCode.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Trees\TreeCode\obj\Debug\net7.0\TreeCode.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Trees\TreeCode\obj\Debug\net7.0\TreeCode.dll
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Trees\TreeCode\obj\Debug\net7.0\refint\TreeCode.dll
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Trees\TreeCode\obj\Debug\net7.0\TreeCode.pdb
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Trees\TreeCode\obj\Debug\net7.0\TreeCode.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Trees\TreeCode\obj\Debug\net7.0\ref\TreeCode.dll
