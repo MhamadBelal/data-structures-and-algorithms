@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-max\TreeMaxCode\bin\Debug\net7.0\TreeMaxCode.exe
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-max\TreeMaxCode\bin\Debug\net7.0\TreeMaxCode.deps.json
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-max\TreeMaxCode\bin\Debug\net7.0\TreeMaxCode.runtimeconfig.json
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-max\TreeMaxCode\bin\Debug\net7.0\TreeMaxCode.dll
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-max\TreeMaxCode\bin\Debug\net7.0\TreeMaxCode.pdb
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-max\TreeMaxCode\obj\Debug\net7.0\TreeMaxCode.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-max\TreeMaxCode\obj\Debug\net7.0\TreeMaxCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-max\TreeMaxCode\obj\Debug\net7.0\TreeMaxCode.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-max\TreeMaxCode\obj\Debug\net7.0\TreeMaxCode.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-max\TreeMaxCode\obj\Debug\net7.0\TreeMaxCode.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-max\TreeMaxCode\obj\Debug\net7.0\TreeMaxCode.dll
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-max\TreeMaxCode\obj\Debug\net7.0\refint\TreeMaxCode.dll
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-max\TreeMaxCode\obj\Debug\net7.0\TreeMaxCode.pdb
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-max\TreeMaxCode\obj\Debug\net7.0\TreeMaxCode.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-max\TreeMaxCode\obj\Debug\net7.0\ref\TreeMaxCode.dll
