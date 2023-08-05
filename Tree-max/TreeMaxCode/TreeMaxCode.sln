@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeMaxCode", "TreeMaxCode.csproj", "{79373513-FD66-4695-86A9-E12EF856DB99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeMaxTest", "..\TreeMaxTest\TreeMaxTest.csproj", "{63594745-40A8-4C67-9C8F-17546A475A9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79373513-FD66-4695-86A9-E12EF856DB99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79373513-FD66-4695-86A9-E12EF856DB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79373513-FD66-4695-86A9-E12EF856DB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79373513-FD66-4695-86A9-E12EF856DB99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63594745-40A8-4C67-9C8F-17546A475A9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63594745-40A8-4C67-9C8F-17546A475A9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63594745-40A8-4C67-9C8F-17546A475A9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63594745-40A8-4C67-9C8F-17546A475A9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B755ECFF-A8CE-4667-863B-1B98C27F997D}
+	EndGlobalSection
+EndGlobal
