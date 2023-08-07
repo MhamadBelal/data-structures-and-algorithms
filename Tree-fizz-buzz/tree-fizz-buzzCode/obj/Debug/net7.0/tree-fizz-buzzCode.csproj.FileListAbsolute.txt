@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-fizz-buzz\tree-fizz-buzzCode\bin\Debug\net7.0\tree-fizz-buzzCode.exe
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-fizz-buzz\tree-fizz-buzzCode\bin\Debug\net7.0\tree-fizz-buzzCode.deps.json
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-fizz-buzz\tree-fizz-buzzCode\bin\Debug\net7.0\tree-fizz-buzzCode.runtimeconfig.json
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-fizz-buzz\tree-fizz-buzzCode\bin\Debug\net7.0\tree-fizz-buzzCode.dll
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-fizz-buzz\tree-fizz-buzzCode\bin\Debug\net7.0\tree-fizz-buzzCode.pdb
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-fizz-buzz\tree-fizz-buzzCode\obj\Debug\net7.0\tree-fizz-buzzCode.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-fizz-buzz\tree-fizz-buzzCode\obj\Debug\net7.0\tree-fizz-buzzCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-fizz-buzz\tree-fizz-buzzCode\obj\Debug\net7.0\tree-fizz-buzzCode.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-fizz-buzz\tree-fizz-buzzCode\obj\Debug\net7.0\tree-fizz-buzzCode.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-fizz-buzz\tree-fizz-buzzCode\obj\Debug\net7.0\tree-fizz-buzzCode.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-fizz-buzz\tree-fizz-buzzCode\obj\Debug\net7.0\tree-fizz-buzzCode.dll
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-fizz-buzz\tree-fizz-buzzCode\obj\Debug\net7.0\refint\tree-fizz-buzzCode.dll
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-fizz-buzz\tree-fizz-buzzCode\obj\Debug\net7.0\tree-fizz-buzzCode.pdb
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-fizz-buzz\tree-fizz-buzzCode\obj\Debug\net7.0\tree-fizz-buzzCode.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\Tree-fizz-buzz\tree-fizz-buzzCode\obj\Debug\net7.0\ref\tree-fizz-buzzCode.dll
