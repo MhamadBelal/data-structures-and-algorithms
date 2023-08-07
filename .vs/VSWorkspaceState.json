@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Trees\\Assets",
-    "\\Trees\\TreeTest"
+    "\\Tree-fizz-buzz",
+    "\\Trees"
   ],
-  "SelectedNode": "\\Tree-breadth-first",
+  "SelectedNode": "\\Trees\\README.md",
   "PreviewInSolutionExplorer": false
 }
