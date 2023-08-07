@@ -16,4 +16,4 @@
 | Challenge15 | [Trees](./Trees/README.md) |
 | Challenge16 | [Tree-max](./Tree-max/README.md) |
 | Challenge17 | [Tree-breadth-first](./Tree-breadth-first/README.md) |
-
+| Challenge18 | [Tree-fizz-buzz](./Tree-fizz-buzz/README.md) |
