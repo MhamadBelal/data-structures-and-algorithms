@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\InsertionSort\InsertionSortCode\bin\Debug\net7.0\InsertionSortCode.exe
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\InsertionSort\InsertionSortCode\obj\Debug\net7.0\InsertionSortCode.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\InsertionSort\InsertionSortCode\obj\Debug\net7.0\InsertionSortCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\InsertionSort\InsertionSortCode\obj\Debug\net7.0\InsertionSortCode.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\InsertionSort\InsertionSortCode\obj\Debug\net7.0\InsertionSortCode.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\InsertionSort\InsertionSortCode\obj\Debug\net7.0\InsertionSortCode.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\InsertionSort\InsertionSortCode\obj\Debug\net7.0\InsertionSortCode.dll
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\InsertionSort\InsertionSortCode\obj\Debug\net7.0\refint\InsertionSortCode.dll
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\InsertionSort\InsertionSortCode\obj\Debug\net7.0\InsertionSortCode.pdb
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\InsertionSort\InsertionSortCode\bin\Debug\net7.0\InsertionSortCode.deps.json
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\InsertionSort\InsertionSortCode\bin\Debug\net7.0\InsertionSortCode.runtimeconfig.json
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\InsertionSort\InsertionSortCode\bin\Debug\net7.0\InsertionSortCode.dll
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\InsertionSort\InsertionSortCode\bin\Debug\net7.0\InsertionSortCode.pdb
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\InsertionSort\InsertionSortCode\obj\Debug\net7.0\InsertionSortCode.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\InsertionSort\InsertionSortCode\obj\Debug\net7.0\ref\InsertionSortCode.dll
