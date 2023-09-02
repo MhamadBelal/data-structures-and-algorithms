@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\MergeSort\MergeSortCode\bin\Debug\net7.0\MergeSortCode.exe
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\MergeSort\MergeSortCode\bin\Debug\net7.0\MergeSortCode.deps.json
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\MergeSort\MergeSortCode\bin\Debug\net7.0\MergeSortCode.runtimeconfig.json
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\MergeSort\MergeSortCode\bin\Debug\net7.0\MergeSortCode.dll
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\MergeSort\MergeSortCode\bin\Debug\net7.0\MergeSortCode.pdb
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\MergeSort\MergeSortCode\obj\Debug\net7.0\MergeSortCode.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\MergeSort\MergeSortCode\obj\Debug\net7.0\MergeSortCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\MergeSort\MergeSortCode\obj\Debug\net7.0\MergeSortCode.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\MergeSort\MergeSortCode\obj\Debug\net7.0\MergeSortCode.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\MergeSort\MergeSortCode\obj\Debug\net7.0\MergeSortCode.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\MergeSort\MergeSortCode\obj\Debug\net7.0\MergeSortCode.dll
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\MergeSort\MergeSortCode\obj\Debug\net7.0\refint\MergeSortCode.dll
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\MergeSort\MergeSortCode\obj\Debug\net7.0\MergeSortCode.pdb
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\MergeSort\MergeSortCode\obj\Debug\net7.0\MergeSortCode.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\MergeSort\MergeSortCode\obj\Debug\net7.0\ref\MergeSortCode.dll

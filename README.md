@@ -18,3 +18,4 @@
 | Challenge17 | [Tree-breadth-first](./Tree-breadth-first/README.md) |
 | Challenge18 | [Tree-fizz-buzz](./Tree-fizz-buzz/README.md) |
 | Challenge26 | [Insertion Sort](./InsertionSort/README.md) |
+| Challenge27 | [Merge Sort](./MergeSort/README.md) |
