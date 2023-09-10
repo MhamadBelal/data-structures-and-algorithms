@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\SortingObject\SortingObejectCode\bin\Debug\net7.0\SortingObejectCode.exe
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\SortingObject\SortingObejectCode\bin\Debug\net7.0\SortingObejectCode.deps.json
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\SortingObject\SortingObejectCode\bin\Debug\net7.0\SortingObejectCode.runtimeconfig.json
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\SortingObject\SortingObejectCode\bin\Debug\net7.0\SortingObejectCode.dll
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\SortingObject\SortingObejectCode\bin\Debug\net7.0\SortingObejectCode.pdb
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\SortingObject\SortingObejectCode\obj\Debug\net7.0\SortingObejectCode.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\SortingObject\SortingObejectCode\obj\Debug\net7.0\SortingObejectCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\SortingObject\SortingObejectCode\obj\Debug\net7.0\SortingObejectCode.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\SortingObject\SortingObejectCode\obj\Debug\net7.0\SortingObejectCode.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\SortingObject\SortingObejectCode\obj\Debug\net7.0\SortingObejectCode.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\SortingObject\SortingObejectCode\obj\Debug\net7.0\SortingObejectCode.dll
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\SortingObject\SortingObejectCode\obj\Debug\net7.0\refint\SortingObejectCode.dll
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\SortingObject\SortingObejectCode\obj\Debug\net7.0\SortingObejectCode.pdb
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\SortingObject\SortingObejectCode\obj\Debug\net7.0\SortingObejectCode.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\data-structures-and-algorithms\SortingObject\SortingObejectCode\obj\Debug\net7.0\ref\SortingObejectCode.dll
