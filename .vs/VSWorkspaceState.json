@@ -1,9 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\InsertionSort\\InsertionSortCode",
-    "\\InsertionSort\\InsertionSortTest"
+    ""
   ],
-  "SelectedNode": "\\Stack&QueueImplementation(1)",
+  "SelectedNode": "\\SortingObject",
   "PreviewInSolutionExplorer": false
 }
