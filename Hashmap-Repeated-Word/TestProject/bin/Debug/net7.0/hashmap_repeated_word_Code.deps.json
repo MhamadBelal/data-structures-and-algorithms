@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "hashmap_repeated_word_Code/1.0.0": {
+        "runtime": {
+          "hashmap_repeated_word_Code.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hashmap_repeated_word_Code/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
