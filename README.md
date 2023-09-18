@@ -21,3 +21,4 @@
 | Challenge 27 | [Merge Sort](./MergeSort/README.md) |
 | Challenge 28 | [Sorting Object](./SortingObject/README.md) |
 | Challenge 30 | [Hash Tables](./HashTables/README.md) |
+| Challenge 30 | [Hashmap Repeated Word](./Hashmap-Repeated-Word/README.md) |
