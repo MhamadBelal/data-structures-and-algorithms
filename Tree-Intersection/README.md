@@ -102,6 +102,7 @@ static void Main(string[] args)
 ## Test Cases
 
 ```shell
+<<<<<<< HEAD
 [Fact]
         public void TreeIntersection_ReturnsIntersection_WhenIntersectionExists()
         {
@@ -181,4 +182,7 @@ static void Main(string[] args)
             // Assert
             Assert.Empty(intersection);
         }
+=======
+
+>>>>>>> d31840211c42add16c191997a9015470271d304f
 ```
