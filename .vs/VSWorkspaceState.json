@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Graph-Business-Trip"
+    "\\Graph-Business-Trip\\Graph_Business_TripTest",
+    "\\Graph-Depth-First\\Assets"
   ],
-  "SelectedNode": "\\Graph-Business-Trip",
+  "SelectedNode": "\\Graph-Depth-First",
   "PreviewInSolutionExplorer": false
 }
