@@ -26,3 +26,5 @@
 | Challenge 33 | [Hashmap Left Join](./Hashmap-Left-Join/README.md) |
 | Challenge 35 | [Graph](./Graph/README.md) |
 | Challenge 36 | [Graph Breadth First](./Graph-Breadth-First/README.md) |
+| Challenge 37 | [Graph Business Trip](./Graph-Business-Trip/README.md) |
+| Challenge 38 | [Graph Depth First](./Graph-Depth-First/README.md) |

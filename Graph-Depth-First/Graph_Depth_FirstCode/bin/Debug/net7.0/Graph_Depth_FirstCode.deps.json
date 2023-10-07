@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Graph_Depth_FirstCode/1.0.0": {
+        "runtime": {
+          "Graph_Depth_FirstCode.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Graph_Depth_FirstCode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
